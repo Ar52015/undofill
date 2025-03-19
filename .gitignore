@@ -2,6 +2,11 @@
 /.gradle
 /.idea
 run/
+CREDITS.txt
+changelog.txt
+LICENSE.txt
+.gitattributes
+README.txt
 
 # Compiled class file
 *.class
